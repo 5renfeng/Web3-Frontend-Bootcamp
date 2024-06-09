@@ -3,7 +3,7 @@
 ## 个人信息
 
 * GitHub ID:5renfeng
-* OpenBuild Username:
+* OpenBuild Username:renfeng
 * ERC20 钱包地址: (首次如果没有，学习完毕钱包在填写)
 
 ### 个人介绍
